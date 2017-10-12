@@ -14,3 +14,5 @@
 
 App demonstrates:
 Isomorphic Javascript. It means writing one codebase that can run on both the server side and the client side.
+
+![react-crackler](https://user-images.githubusercontent.com/2385925/31487753-3558d5ba-af44-11e7-9e90-fac599dee73b.png)
